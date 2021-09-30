@@ -5,5 +5,8 @@ env/lib64
 env/share
 static_collected
 web_project/__pycache__
+hello/migrations/__pycache__
 hello/__pycache__
 hello/migrations/__pycache__/__init__.cpython-38.pyc
+hello/migrations/0001_initial.py
+db.sqlite3
