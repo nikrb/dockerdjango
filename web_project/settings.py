@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+STATIC_ROOT = BASE_DIR / 'static_collected'
+
 
 # Application definition
 
