@@ -1,0 +1,8 @@
+env/lib
+env/bin
+env/include
+env/lib64
+env/share
+web_project/__pycache__
+hello/__pycache__
+hello/migrations/__pycache__/__init__.cpython-38.pyc
