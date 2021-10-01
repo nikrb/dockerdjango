@@ -1,0 +1,5 @@
+this breaks docker, tried removing it
+pkg_resources==0.0.0
+note pip uninstall pkg_resources breaks virtual environment!
+could try:
+pip freeze > requirements.in && grep -v "pkg_resources==0.0.0" requirements.in > temp mv temp requirements.in
